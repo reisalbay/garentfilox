@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  companyName: 'AVİS KURUMSAL FİLO',
+  companyName: 'GARENT KURUMSAL FİLO',
   phoneDisplay: '0501 592 61 05',
   phoneRaw: '905015926105',
   whatsappRaw: '905015790896',
