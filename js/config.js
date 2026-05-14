@@ -1,8 +1,8 @@
 window.SITE_CONFIG = {
   companyName: 'GARENT KURUMSAL FİLO',
-  phoneDisplay: '905521093310',
-  phoneRaw: '905521093310',
-  whatsappRaw: '905530848434',
+  phoneDisplay: '905536532578',
+  phoneRaw: '905536532578',
+  whatsappRaw: '905521033236',
   whatsappMessage: 'Merhaba, araç rezervasyonu yapmak istiyorum.',
   locations: ['İstanbul Havalimanı', 'Sabiha Gökçen', 'Taksim', 'Kadıköy', 'Beşiktaş', 'Bursa Merkez'],
   workingHours: '7/24 teslimat ve rezervasyon desteği'
